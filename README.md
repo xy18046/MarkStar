@@ -1,6 +1,7 @@
 # MarkStar
 [为什么你一定要拼命的去挣钱?](https://www.jianshu.com/p/49f3c71d96f6)
 
+[shabake/GHStudyRecord](https://github.com/shabake/GHStudyRecord)
 
 # 为什么你一定要拼命的去挣钱?
 
